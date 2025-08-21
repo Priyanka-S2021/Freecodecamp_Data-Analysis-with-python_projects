@@ -72,6 +72,4 @@ Each project demonstrates data analysis and visualization skills using **Python,
 👩‍💻 Built with guidance from FreeCodeCamp and completed on Replit/GitHub.  
 
 
----
 
-## 📂 Repository Structure
